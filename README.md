@@ -9,22 +9,22 @@ This Streamlit app allows you to generate blog content using the Falcon-7B Instr
 ```bash
 git clone https://github.com/YourUsername/Blog-Generator-App.git
 cd Blog-Generator-App
+```
 
 ## Install the required dependencies:
-bash
-```
+```bash
 pip install -r requirements.txt
 ```
 
 ## How to Use
 Make sure you have Python installed.
-
-## Run the Streamlit app:
+Run the Streamlit app:
 
 bash
 ```
 streamlit run app.py
 ```
+
 The app will open in your default web browser. Enter your desired topic in the text input field and click the "Generate the Blog" button.
 
 The app will use the Falcon-7B Instruct language model to generate a blog about the provided topic.
