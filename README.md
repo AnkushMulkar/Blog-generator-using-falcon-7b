@@ -1,6 +1,6 @@
 # Blog-generator-using-falcon-7b
 
-This Streamlit app allows you to generate blog content using the Falcon-7B Instruct language model. Simply provide a topic, and the app will generate a blog with a detailed introduction, explanation, and summary about the topic, along with an attribution to Ankush Mulkar.
+This Streamlit app allows you to generate blog content using the Falcon-7B Instruct language model. Simply provide a topic, and the app will generate a blog with a detailed introduction, explanation, and summary about the topic.
 
 ## Installation
 
