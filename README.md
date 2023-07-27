@@ -39,6 +39,26 @@ Background music is included from the "music (2).mp3" file in the project direct
 
 The app is hosted using the Hugging Face Spaces platform, and the language model is set to tiiuae/falcon-7b-instruct.
 
+## Contribute
+Contributions are welcome and encouraged! If you'd like to contribute to the Blog Generator App, please follow these steps:
+
+Fork the repository on GitHub.
+
+Create a new branch from the main branch for your contributions.
+
+Make your changes, whether it's fixing bugs, adding new features, or improving documentation.
+
+Test your changes to ensure they work as expected.
+
+Commit your changes with descriptive commit messages.
+
+Push your changes to your forked repository.
+
+Create a pull request (PR) against the main branch of the original repository.
+
+We'll review your PR and work together to merge your changes into the app.
+
+
 ## Contact
 If you have any questions or feedback, feel free to contact the app author Ankush Mulkar.
 
