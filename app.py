@@ -5,7 +5,7 @@ from PIL import Image, ImageDraw, ImageOps
 
 
 # Set Hugging Face API key
-#os.environ['API_KEY'] = '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'
+os.environ['API_KEY'] = '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'
 
 # Initialize the language model
 model_id = 'tiiuae/falcon-7b-instruct'
